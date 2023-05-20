@@ -2,9 +2,13 @@
 Shijia Huang
 ## Deep Learning Based Steam Store Game Recommender System
 
-1. Data Preprocessing
-2. Explorartory Data Analysis
-3. Modelling
+- Data Preprocessing
+- Explorartory Data Analysis and Feature Engineering
+- Modelling
+  - Baseline Model: Content-Based Filtering
+  - Collaborative Filtering
+  - Neural Collaborative Filtering (NCF)
+  - Hybrid Model: NCF with Content-Based Filtering
 
 Data Source: https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam
 

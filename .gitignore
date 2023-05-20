@@ -2,3 +2,4 @@
 /data
 /preprocessed
 /feat
+*.h5
